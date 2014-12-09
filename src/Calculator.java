@@ -1,6 +1,6 @@
 public class Calculator {
 	public static void main( final String[] args ){
-		int intResult = Calculate(12, 4);
+		int intResult = Calculate(34, 12);
 		System.out.println(intResult);
 	}
 	
